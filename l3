@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
                     ),
                     ),
                     Text(
-                    'Красноадр, ул. Калинина, 13',
+                    'Краснодар, ул. Калинина, 13',
                      style: TextStyle(
                      color: Colors.grey[500],
                     ),
